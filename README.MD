@@ -22,6 +22,7 @@ https://goo.gl/Adsg0g
 - Default keymap for the XD60
 - 2.25u Left Shift, 1.75u Right Shift
 - Right Shift tap will trigger ?/, hold will trigger Shift
+- Apple + Esc will instead trigger Apple + Graves. This will allow you to switch focus of windows within an app by pretending that the Esc key is Graves.
 
 ### KLE
 https://goo.gl/rXT9ZH
